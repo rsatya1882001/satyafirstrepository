@@ -1,2 +1,2 @@
 # satyafirstrepository
-this is my first git project Author Surya.R
+This is my first git project Author- Surya.R
